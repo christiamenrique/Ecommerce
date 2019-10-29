@@ -13,6 +13,10 @@
 * npm build to create the dist file
 * create a hook to your github site in netlify for continuous deployment
 
+### Demo
+
+* https://thebestelectronic.netlify.com/
+
 ### Payment gateway
 
 A sample component is included for paypal. In order to activate the component for paypal
